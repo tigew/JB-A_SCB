@@ -1,0 +1,7 @@
+type: framework
+content:
+- Chatty Bot welcomes you
+- Guess the age
+- Learning numbers
+- Multiple choice
+current_task: 3
